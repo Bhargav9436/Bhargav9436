@@ -31,7 +31,6 @@ Description:
 - The final model developed reconstructs the modal signal for the 5DOF system.
 -- The raw, reconstructed, and modal signals' power spectrum are shown along with their mode shapes and responses. 
 
-This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
 
 <table>
   <tr>
@@ -68,7 +67,6 @@ locations by analyzing multidimensional sensor data.
 -  Principle Component Analysis(PCA), Signal Processing, Matlab, Graphical Analysis, Teamwork, Microsoft Excel.
   --  The final results quantify damage in the pipe based on the Eigen Variance Index (EVI), predict the exact location of damage, works excellently under an SNR of 2. The performance of the model is shown below. 
 
-This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
 
 <table>
   <tr>
