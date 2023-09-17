@@ -73,16 +73,16 @@ This endeavour seamlessly merged theoretical insights with practical application
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/1bc1e319-47aa-4d60-8cdf-a7c6e7370166" alt="CAD" width="500">
-      <p>Performance on Mass Coefficient estimation</p>
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/f9412375-dbb9-4f75-90cb-d57051b2c952" alt="CAD" width="500">
+      <p>Damage Detection and its quantization</p>
     </td>
     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/62e5e6d7-90f6-4807-8bb2-45ce6fa6ac98" alt="Mesh" width="500">
-      <p>Performance on Stiffness Coefficient estimation</p>
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
+      <p>Comparison of piezoelectric data at different flow rates</p>
     </td>
      <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/3fe88980-5671-4d2a-b53d-037d644e652f" alt="CAD" width="500">
-      <p>Performance on Mass Coefficient estimation</p>
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" alt="CAD" width="500">
+      <p>Interpretation of Damage Location</p>
     </td>
   </tr>
 </table>
