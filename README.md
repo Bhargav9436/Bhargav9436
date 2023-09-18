@@ -19,7 +19,7 @@ My name is Bhargav Pratim Nath, and I am a  junior undergrad at the Indian Insti
 
 ### 	STRUCTURAL HEALTH MONITORING USING REDUCED-ORDER VARIATIONAL MODE DECOMPOSITION (RVMD): 
 
-Engaged in an exploratory project guided by Associate Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+Engaged in an exploratory project guided by Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
 
 📅 Duration:  July'23-Sept’23
