@@ -15,7 +15,10 @@ My name is Bhargav Pratim Nath, and I am a  junior undergrad at the Indian Insti
  
 
 
+
+
 ## Projects
+
 
 ### 	STRUCTURAL HEALTH MONITORING USING REDUCED-ORDER VARIATIONAL MODE DECOMPOSITION (RVMD): 
 
@@ -51,6 +54,7 @@ Description:
 
 ---
 
+
 ### DAMAGE DETECTION OF UNDERGROUND USING PCA
 
 A research under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
@@ -82,26 +86,36 @@ locations by analyzing multidimensional sensor data.
       <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" alt="CAD" width="500">
       <p>Interpretation of Damage Location</p>
     </td>
+   </tr>
+   <tr>
     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
-      <p>Comparison of piezoelectric data at different flow rates</p>
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/89305553-3b60-4e17-a7f8-8c98345ec465" alt="Mesh" width="500">
+      <p>Quantization of damage using Eigen Variance Index (EVI)</p>
     </td>
     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
-      <p>Comparison of piezoelectric data at different flow rates</p>
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/7012e8c7-3415-45ca-9ddc-1aecd801bf4b" alt="Mesh" width="500">
+      <p>Correlation between PC without and with noise.</p>
     </td>
     <td align="center">
-      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
-      <p>Comparison of piezoelectric data at different flow rates</p>
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/b3b04aa1-a051-415f-a54e-c4718cfc7a6f" alt="Mesh" width="500">
+      <p>Location detection of damage for noisy data (zoomed for clearer visibility)</p>
     </td>
   </tr>
 </table>
 
 ---
 
+### 	DISASTER TWEET PREDICTION USING NATURAL LANGUAGE PROCESSING (NLP): 
+
+📅 Duration:  20 June-18July,2023
+
+Description:
+
+- Data pre-processing: Manipulation and feature extraction of Twitter tweets and transforming them into numerical data for Machine feeding.
+- Algorithm used: Explored the implementation of diverse Machine Learning algorithms on the training set, including Multinomial Naive Bayes (MNB), Random Forest Classifier (RFC), Support Vector Classifier (SVC), Logistic Regression (LR), Gradient Boosting Classifier (GBC).
+- Application: Successful real-time classification of the possibility of a tweet being connected to disaster, thus exponentially boosting public safety.
 
 ---
-
 
 ## Skills
 
@@ -109,8 +123,9 @@ locations by analyzing multidimensional sensor data.
 - 🛠 Autocad, QGIS
 - 🔬 Civil Engineering
 - 🤖 Machine Learning and Signal Processing
-- 💻 Programming (MATLAB, Python,C++, LaTex)
+- 💻 Programming (MATLAB, Python, C/C++)
 
+--
 ## Contact Me
 
 📧 Email: [bhargav.pratimnath.civ21@itbhu.ac.in](mailto:bhargav.pratimnath.civ21@itbhu.ac.in)
