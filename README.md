@@ -19,10 +19,10 @@ My name is Bhargav Pratim Nath, and I am a  junior undergrad at the Indian Insti
 
 ### 	STRUCTURAL HEALTH MONITORING USING REDUCED-ORDER VARIATIONAL MODE DECOMPOSITION (RVMD): 
 
-Engaged in an exploratory project guided by Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+Engaged in research guided by Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
 
-📅 Duration:  July'23-Sept’23
+📅 Duration:  June'23-Sept’23
 
 Description:
 
@@ -53,7 +53,7 @@ Description:
 
 ### DAMAGE DETECTION OF UNDERGROUND USING PCA
 
-A Project under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
+A research under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
 
 📅 Duration:  Aug '23-Present
@@ -81,6 +81,18 @@ locations by analyzing multidimensional sensor data.
      <td align="center">
       <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/6e2e2831-4c3f-4a38-9d18-978da8911717" alt="CAD" width="500">
       <p>Interpretation of Damage Location</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
+      <p>Comparison of piezoelectric data at different flow rates</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
+      <p>Comparison of piezoelectric data at different flow rates</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Bhargav9436/Bhargav9436/assets/129538917/86ff289b-57e8-4d30-8290-5d6859b39e02" alt="Mesh" width="500">
+      <p>Comparison of piezoelectric data at different flow rates</p>
     </td>
   </tr>
 </table>
