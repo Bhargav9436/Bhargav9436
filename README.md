@@ -55,7 +55,7 @@ Description:
 ---
 
 
-### DAMAGE DETECTION OF UNDERGROUND USING PCA
+### DAMAGE DETECTION OF UNDERGROUND PIPELINE USING PCA
 
 A research under Assistant Professor [Dr. Basuraj Bhowmik]([[url]([https://www.iitbhu.ac.in/dept/civ/people/basurajciv])])
 
